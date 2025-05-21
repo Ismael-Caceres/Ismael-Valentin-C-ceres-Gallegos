@@ -1,6 +1,6 @@
 # Perfil Profesional de Ismael Valentín Cáceres Gallegos
 
-![Banner de perfil](https://github.com/Ismael-Caceres/Ismael-Valentin-Caceres-Gallegos/blob/main/foto) <!-- Opcional: Agrega una imagen -->
+![Banner de perfil](foto.png) <!-- Opcional: Agrega una imagen -->
 
 ## 📌 Descripción
 Página web personal que muestra mi perfil académico y profesional como estudiante de **Administración de Negocios (ADM5)**. Incluye:
