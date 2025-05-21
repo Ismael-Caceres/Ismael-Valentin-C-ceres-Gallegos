@@ -10,7 +10,7 @@ Página web personal que muestra mi perfil académico y profesional como estudia
 
 ## 🚀 Cómo Acceder
 Visita el perfil en GitHub Pages:  
-🔗 [Ver Perfil](https://github.com/Ismael-Caceres/Ismael-Valentin-Caceres-Gallegos)
+🔗 [Ver Perfil](https://github.com/Ismael-Caceres/Ismael-Valentin-Caceres-Gallegos](https://github.com/Ismael-Caceres/Ismael-Valentin-Caceres-Gallegos/blob/main/index.html)
 
 ## 🛠 Tecnologías Utilizadas
 - HTML5
