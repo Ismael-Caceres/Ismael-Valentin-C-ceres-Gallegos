@@ -29,6 +29,6 @@ Este proyecto busca:
 - Crear una presencia profesional en línea.
 
 ## 📬 Contacto
-- ✉️ Email: ismael.caceres@ucsp.edu
+- ✉️ Email: ismael.caceres@ucsp.edu.pe
 - 💼 LinkedIn: [linkedin.com/in/tuperfil]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/ismael-valentin-caceres-gallegos-b55abb366/)
 - ⌨️ GitHub: [github.com/Ismael-Caceres](https://github.com/Ismael-Caceres)
